@@ -1,0 +1,17 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --maxWorkers=50%"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.5",
+    "babel-jest": "^27.4.5",
+    "babel-loader": "^8.2.3",
+    "jest": "^27.4.5"
+  }
+}
