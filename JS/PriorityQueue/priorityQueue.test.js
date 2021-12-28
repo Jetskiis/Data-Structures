@@ -1,6 +1,6 @@
-import priorityQueue from "./priorityQueue.js";
+import PriorityQueue from "./priorityQueue.js";
 
-let pq = new priorityQueue();
+let pq = new PriorityQueue();
 
 describe("Testing priority queue functions", () => {
   test("Test queueing and dequeueing in a priority queue", () => {
